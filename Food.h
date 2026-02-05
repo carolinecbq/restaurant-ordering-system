@@ -1,17 +1,3 @@
-/* Citation and Sources...
-Final Project Milestone 3:
-Module: Food
-Filename: Food.h
-Version 1.0
-Author: Caroline Chen, StNo: 112747241, Email: cchen247@myseneca.ca
-Revision History
------------------------------------------------------------
-Date      Reason
-
------------------------------------------------------------
-Citation to indicate that you have done all the work yourself
------------------------------------------------------------*/
-
 #ifndef FOOD_H
 #define FOOD_H
 #include <iostream>
