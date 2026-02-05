@@ -1,20 +1,3 @@
-//
-// Created by carol on 2025-10-30.
-//
-/* Citation and Sources...
-Final Project Milestone 2:
-Module: Menu
-Filename: Menu.h
-Version 1.0
-Author: Caroline Chen, StNo: 112747241, Email: cchen247@myseneca.ca
-Revision History
------------------------------------------------------------
-Date      Reason
-2025/10/31  Forgot the & symbol in the ostream display function and the default cout
-2025/11/09 Added Milestone 2 functions
------------------------------------------------------------
-Citation to indicate that you have done all the work yourself
------------------------------------------------------------*/
 #ifndef MENU_H
 #define MENU_H
 #include <iostream>
