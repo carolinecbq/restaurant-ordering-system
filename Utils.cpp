@@ -1,31 +1,3 @@
-/***********************************************************************
-// OOP244 Project, Utils Module
-//
-// File	Utils.h
-// Version 0.1
-// started by Fardad
-// Description
-// utility function to be used in the project
-// Revision History
-// -----------------------------------------------------------
-// Name            Date            Reason
-//
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
-/* Citation and Sources...
-Final Project Milestone 2:
-Module: Utils
-Filename: Utils.cpp
-Version 1.0
-Author: Caroline Chen, StNo: 112747241, Email: cchen247@myseneca.ca
-Revision History
------------------------------------------------------------
-Date      Reason
-2025/11/09 Added Milestone 2 functions
-2025/11/29 Added <sstream> in order to utilize string data type and string stream to fix output issues with MS56
------------------------------------------------------------
-Citation to indicate that you have done all the work yourself
------------------------------------------------------------*/
 #include <iostream>
 #include "Utils.h"
 #include <limits>
