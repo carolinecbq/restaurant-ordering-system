@@ -1,16 +1,3 @@
-/* Citation and Sources...
-Final Project Milestone 4:
-Module: Ordering
-Filename: Ordering.cpp
-Version 1.0
-Author: Caroline Chen, StNo: 112747241, Email: cchen247@myseneca.ca
-Revision History
------------------------------------------------------------
-Date      Reason
-
------------------------------------------------------------
-Citation to indicate that you have done all the work yourself
------------------------------------------------------------*/
 #include "Ordering.h"
 #include "Menu.h"
 #include "Utils.h"
