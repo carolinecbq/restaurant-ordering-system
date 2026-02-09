@@ -51,7 +51,7 @@ namespace seneca {
         cout << "         Drink Size Selection\n";
         cout << "          1- Small\n";
         cout << "          2- Medium\n";
-        cout << "          3- Larg\n";
+        cout << "          3- Large\n";
         cout << "          4- Extra Large\n";
         cout << "          0- Back\n";
         cout << "         > ";
